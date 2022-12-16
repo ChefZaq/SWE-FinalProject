@@ -56,7 +56,7 @@ let questions = [
   },
     {
     numb: 6,
-    question: "What NBA Franchise that's never moved cites?",
+    question: "Which of these NBA Franchises never never moved cites?",
     answer: "New York Knicks",
     options: [
       "New York Knicks",
@@ -89,7 +89,7 @@ let questions = [
   },
     {
     numb: 9,
-    question: "Who was the younger player to be NBA MVP?",
+    question: "Who was the younger player to be named NBA MVP?",
     answer: "Derrick Rose",
     options: [
       "Kobe Bryant",
